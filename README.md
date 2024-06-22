@@ -25,7 +25,7 @@
 - Time management and productivity tips
 - Learning new technologies and staying updated in the tech world
 
-📫 How to reach me:
+🌐 How to reach me:
 - Email: [raees.mughal.official@gmail.com](mailto:raees.mughal.official@gmail.com)
 - LinkedIn: [Raees Mughal](https://www.linkedin.com/in/raeesmughal/)
 - Instagram: [@raeesmghl](https://www.instagram.com/raeesmghl/)
