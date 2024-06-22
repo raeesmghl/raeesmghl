@@ -26,7 +26,7 @@
 - Learning new technologies and staying updated in the tech world
 
 📫 How to reach me:
-- Email: [raees.mughal.official](mailto:raees.mughal.official@gmail.com)
+- Email: [raees.mughal.official@gmail.com](mailto:raees.mughal.official@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - Instagram: [@raeesmghl](https://www.instagram.com/raeesmghl/)
 
