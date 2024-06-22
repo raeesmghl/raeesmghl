@@ -27,7 +27,7 @@
 
 📫 How to reach me:
 - Email: [raees.mughal.official@gmail.com](mailto:raees.mughal.official@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [Raees Mughal](https://www.linkedin.com/in/raeesmughal/)
 - Instagram: [@raeesmghl](https://www.instagram.com/raeesmghl/)
 
 😄 Pronouns: He/Him
