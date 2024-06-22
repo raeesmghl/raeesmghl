@@ -31,7 +31,18 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raeesmghl/)
 
 
+
+---
+
+### :fire: My Stats :
+
+
+
+---
+
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I have a knack for solving puzzles and enjoy taking on new challenges, both in coding and in life!
+
+
 
