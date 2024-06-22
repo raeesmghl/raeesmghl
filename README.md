@@ -21,14 +21,14 @@
 - Contributions to my projects for diverse perspectives
 
 💬 Ask me about:
-- Frontend development, HTML, CSS, and JavaScript
-- Timekeeping and productivity tips
+- Frontend development, HTML, CSS, Javascirpt, Tailwind, React, Node js
+- Time management and productivity tips
 - Learning new technologies and staying updated in the tech world
 
 📫 How to reach me:
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [raees.mughal.official](raees.mughal.official@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Instagram: [@raeesmghl](https://www.instagram.com/raeesmghl/)
 
 😄 Pronouns: He/Him
 
