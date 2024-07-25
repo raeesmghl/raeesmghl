@@ -53,4 +53,6 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## projects : 
 
-[Desert Safari Website](https://saharago.netlify.app) using HTML CSS JS
+[Desert Safari Website](https://saharago.netlify.app) using HTML CSS JS.
+
+[Job Platform UI]() using HTML CSS JS.
