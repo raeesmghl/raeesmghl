@@ -52,8 +52,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 
 ## projects : 
-
--Desert Safari Website 
+- Desert Safari Website 
 
 [Desert Safari Website](https://saharago.netlify.app) using HTML CSS JS.
 
