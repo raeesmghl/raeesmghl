@@ -58,7 +58,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 [visit website](https://saharago.netlify.app) using HTML CSS JS.
 
 <img src="https://raw.githubusercontent.com/raeesmghl/saharaGo/main/screenshots/screenshot1.png" width="300">
-<img src="https://raw.githubusercontent.com/raeesmghl/saharaGo/main/screenshots/screenshot2.png" width="300">
+<img src="https://raw.githubusercontent.com/raeesmghl/saharaGo/main/screenshots/screenshot3.png" width="300">
 
 ---
 
