@@ -55,7 +55,8 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## Desert Safari Website 
 
-[visit website](https://saharago.netlify.app) using HTML CSS JS.
+[visit website](https://saharago.netlify.app) 
+- using HTML CSS JS.
 
 <img src="https://raw.githubusercontent.com/raeesmghl/saharaGo/main/screenshots/screenshot1.png" width="300">
 
