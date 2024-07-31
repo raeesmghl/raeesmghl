@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning:
 - Advanced JavaScript concepts and frameworks
-- AJAX and jQuery for seamless web interactions
+- React Js for seamless web UI
 - Backend technologies to broaden my development expertise
 
 👯 I’m looking to collaborate on:
