@@ -74,7 +74,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## portfolio
 
-[visit my portfolio](https://job-platform-ui.netlify.app/) using HTML CSS JS.
+[visit my portfolio](https://raeesmughal.netlify.app/) using HTML CSS JS.
 
 <img src="https://raw.githubusercontent.com/raeesmghl/job-platform-ui/main/screenshot.png" width="300">
 
