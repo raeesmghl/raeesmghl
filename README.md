@@ -92,7 +92,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## ai landing page
 
-[visit my portfolio](https://raeesmughal.netlify.app/)
+[zinox.netlify.app](https://raeesmughal.netlify.app/)
 
 - HTML CSS JS
 - responsive
