@@ -88,3 +88,15 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 <img src="https://raw.githubusercontent.com/raeesmghl/myPortfolio/main/screenshot.png" width="300">
 
 
+---
+
+## ai landing page
+
+[visit my portfolio](https://raeesmughal.netlify.app/)
+
+- HTML CSS JS
+- responsive
+
+<img src="https://raw.githubusercontent.com/raeesmghl/myPortfolio/main/screenshot.png" width="300">
+
+
