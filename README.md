@@ -60,7 +60,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 - HTML CSS JS
 - responsive
 
-<img src="https://raw.githubusercontent.com/raeesmghl/saharaGo/main/screenshots/screenshot1.png">
+<img src="https://raw.githubusercontent.com/raeesmghl/saharaGo/main/screenshots/screenshot1.png" width="300">
 
 ---
 
