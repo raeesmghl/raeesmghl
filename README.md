@@ -106,7 +106,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## colorlibhub
 
-[illdy colorlibhub](https://zinox.netlify.app/)
+[illdy colorlibhub](https://colorlibhub.netlify.app/)
 
 - HTML CSS JS
 - responsive
