@@ -104,15 +104,14 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ---
 
-## ai landing page
+## colorlibhub
 
-[zinox ai](https://zinox.netlify.app/)
+[illdy colorlibhub](https://zinox.netlify.app/)
 
 - HTML CSS JS
 - responsive
 
 <img src="https://raw.githubusercontent.com/raeesmghl/colorlibhub-weeklyProject/main/screenshot.png" width="300"> 
 
-<img src="https://raw.githubusercontent.com/raeesmghl/ai-landing-page/main/assets/screenshots/sc2.png" width="300">
 
 
