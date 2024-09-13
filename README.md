@@ -118,7 +118,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ### glint
 
-[<img src="https://raw.githubusercontent.com/raeesmghl/colorlibhub-weeklyProject/main/screenshot.png" width="300">](https://glint-colorlib.netlify.app/)
+[<img src="https://raw.githubusercontent.com/raeesmghl/GLINT-clone-weeklyProject-2/main/screenshot.png" width="300">](https://glint-colorlib.netlify.app/)
 
 
 
