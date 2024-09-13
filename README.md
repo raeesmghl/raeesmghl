@@ -118,7 +118,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ### colorlibhub
 
-[<img src="https://raw.githubusercontent.com/raeesmghl/colorlibhub-weeklyProject/main/screenshot.png" width="300">](https://colorlibhub.netlify.app/)
+[<img src="https://raw.githubusercontent.com/raeesmghl/colorlibhub-weeklyProject/main/screenshot.png" width="300">](https://glint-colorlib.netlify.app/)
 
 
 
