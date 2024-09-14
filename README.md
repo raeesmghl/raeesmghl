@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on:
 - Enhancing my skills in frontend development
-- Building interactive web applications using HTML, CSS, and JavaScript
+- Building interactive web applications using HTML, CSS, Tailwind and JavaScript
 - Exploring backend development to become a full-stack developer
 
 🌱 I’m currently learning:
