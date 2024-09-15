@@ -92,9 +92,9 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ### zinox ai 
 
-[zinox ai](https://zinox.netlify.app/)
+[<img src="https://raw.githubusercontent.com/raeesmghl/ai-landing-page/main/assets/screenshots/sc2.png" width="300">](https://zinox.netlify.app/)
 
-<img src="https://raw.githubusercontent.com/raeesmghl/ai-landing-page/main/assets/screenshots/sc2.png" width="300">
+
 
 
 ---
