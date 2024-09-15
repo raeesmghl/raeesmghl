@@ -90,7 +90,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ---
 
-## ai landing page
+### zinox ai 
 
 [zinox ai](https://zinox.netlify.app/)
 
