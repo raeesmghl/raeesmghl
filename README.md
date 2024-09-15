@@ -106,13 +106,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## colorlibhub
 
-[illdy colorlibhub](https://colorlibhub.netlify.app/)
-
-- HTML CSS JS
-- responsive
-
-<img src="https://raw.githubusercontent.com/raeesmghl/colorlibhub-weeklyProject/main/screenshot.png" width="300"> 
-
+[<img src="https://raw.githubusercontent.com/raeesmghl/colorlibhub-weeklyProject/main/screenshot.png" width="300">](https://colorlibhub.netlify.app/)
 
 ---
 
