@@ -77,7 +77,7 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## portfolio
 
-[visit my portfolio](https://raeesmughal.netlify.app/)
+[<img src="https://raw.githubusercontent.com/raeesmghl/myPortfolio/main/screenshot.png" width="300">](https://raeesmughal.netlify.app/)
 
 
 ---
