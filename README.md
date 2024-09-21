@@ -65,10 +65,6 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 [visit Job Platform UI](https://job-platform-ui.netlify.app/) 
 
-- HTML CSS JS
-- responsive
-
-<img src="https://raw.githubusercontent.com/raeesmghl/job-platform-ui/main/screenshot.png" width="300">
 
 
 
