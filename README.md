@@ -79,11 +79,6 @@ https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 [visit my portfolio](https://raeesmughal.netlify.app/)
 
-- HTML CSS JS
-- responsive
-
-<img src="https://raw.githubusercontent.com/raeesmghl/myPortfolio/main/screenshot.png" width="300">
-
 
 ---
 
